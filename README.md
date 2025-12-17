@@ -35,4 +35,3 @@ I am a data professional based in **Abuja, Nigeria**, passionate about transform
   </a>
 </div>
 
-![Shedrack's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheddiboo&show_icons=true&theme=radical)

@@ -1,6 +1,6 @@
 ## Hi there, I'm Shedrack Julius! 👋
 
-### 📊 Data Scientist | Data Analyst | Mechatronics Engineer
+### 📊 Data Scientist | Data Analyst | Machine Learning Engineer
 
 I am a data professional based in **Abuja, Nigeria**, passionate about transforming raw data into actionable insights. With a background in **Mechatronics Engineering**, I bring a problem-solving mindset to Data Science, specializing in Machine Learning, NLP, and Predictive Analytics.
 

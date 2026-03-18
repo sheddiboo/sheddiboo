@@ -7,8 +7,8 @@ I am a technical professional based in **Abuja, Nigeria**, specialized in the fu
 ---
 
 - 🔭 **I’m currently working on:** Building an automated **Crypto Analytics Platform** using AWS, Terraform, and dbt.
+- 🚀 **Project Focus:** Architecting a scalable data engine that unifies historical backfills and live streams into an optimized **Parquet** storage layer for SQL analytics.
 - ⚡ **Strengthening my skills in:** Advanced **AI Agents**, **MCP (Model Context Protocol)**, and **RAG (Retrieval-Augmented Generation)** architectures.
-- 🧠 **Proven Experience:** Successfully deployed **Deep Learning** models (TensorFlow) and integrated **Large Language Models (LLMs)** into end-to-end data products.
 - 👯 **Looking to collaborate on:** Open-source data orchestration, MLOps pipelines, and automated intelligence solutions.
 - 💬 **Ask me about:** Python, SQL, **Chess strategies, my workout routine, or the book I'm currently reading**.
 - 📫 **How to reach me:** [theshedrackjulius@gmail.com](mailto:theshedrackjulius@gmail.com)

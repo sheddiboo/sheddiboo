@@ -2,7 +2,7 @@
 
 ### 🛠️ Data & Engineering | Data Science | Machine Learning
 
-I am a technical professional based in **Abuja, Nigeria**, specialized in the full data lifecycle—from building automated data pipelines to developing intelligent machine learning solutions. With a background in **Mechatronics Engineering**, I bring a systems-first approach to solving complex engineering and data problems.
+I am a technical professional based in **Abuja, Nigeria**, specialized in the full data lifecycle, from building automated data pipelines to developing intelligent machine learning solutions. With a background in **Mechatronics Engineering**, I bring a systems-first approach to solving complex engineering and data problems.
 
 ---
 
